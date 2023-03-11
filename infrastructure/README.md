@@ -74,3 +74,7 @@ $ terraform init
 $ terraform apply
 ```
 
+## The essence
+
+Going deeper into the `infrastructure` folder, you will find `environments` and `modules`*.* Inside `environment`, we have a separate directory for each environment. In `modules`, you will find Terraform modules imported by at least two environments (DRY 😉). DRY = Dont Repeat Yourself
+
