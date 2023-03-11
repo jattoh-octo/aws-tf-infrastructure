@@ -24,7 +24,7 @@ Resources are assigned to a given environment:
 
 # proposed directory structure
 
-```c#
+```bash
 infrastructure/
 ├── environments/
 │   ├── prod/
@@ -61,5 +61,16 @@ infrastructure/
         ├── main.tf
         ├── outputs.tf
         └── variables.tf
+```
+
+Local Machine Deployment
+
+```bash
+$ cd infrastructure/environments/pre
+$ terraform init
+$ terraform apply
+$ cd ../../../infrastructure/environments/pro
+$ terraform init
+$ terraform apply
 ```
 
