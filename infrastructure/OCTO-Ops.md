@@ -14,7 +14,7 @@ Our foundational infrastructure consists of everything related to your AWS organ
 
 
 
-![CleanShot 2023-03-12 at 15.54.57@2x](/Users/jeffreyattoh/Library/CloudStorage/OneDrive-ZDAPT/OCTO/tf-iac/aws-tf-library/infrastructure/foundational infrastructure.png)
+![foundational infrastructure](/Users/jeffreyattoh/Library/CloudStorage/OneDrive-ZDAPT/OCTO/tf-iac/aws-tf-library/images/foundational infrastructure.png)
 
 # Foundational Platform
 
