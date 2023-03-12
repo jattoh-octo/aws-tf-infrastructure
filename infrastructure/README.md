@@ -1,4 +1,4 @@
-# **OCTO : `aws-tf-library`**
+# **OCTO : `aws-tf-library-mono`**
 
 
 
